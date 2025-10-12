@@ -126,6 +126,36 @@
           }
         },
         {
+          "id": "de.keksuccino:drippyloadingscreen:3.0.12@jar",
+          "name": "Drippy Loading Screen",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 235272,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
+            "MD5": "3219ecf379ce7035a4605317b5847812"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:3.7.0@jar",
+          "name": "FancyMenu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3618632,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
+            "MD5": "e5029449e4612d9c59d335871a123ea5"
+          }
+        },
+        {
+          "id": "de.keksuccino:spiffyhud:3.0.0@jar",
+          "name": "SpiffyHUD",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 472192,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/spiffyhud_fabric_3.0.0_MC_1.21.1.jar",
+            "MD5": "a7ce61363db5c7bb6dad09e48b5c0256"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.1@jar",
           "name": "Iris",
           "type": "FabricMod",
