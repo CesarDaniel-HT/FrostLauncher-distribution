@@ -152,6 +152,26 @@
           }
         },
         {
+          "id": "generated.fabricmod:cardinal-components:6.1.2@jar",
+          "name": "Cardinal Components API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 229196,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cardinal-components-api-6.1.2.jar",
+            "MD5": "56b720554d1d0ac5efbac63d9099c8b3"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
+          "name": "Cloth Config v15",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1157166,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "MD5": "a2c091b027ad6ba8e54b07020fd45884"
+          }
+        },
+        {
           "id": "dev.tr7zw:notenoughanimations:1.10.3.1@jar",
           "name": "NotEnoughAnimations",
           "type": "FabricMod",
