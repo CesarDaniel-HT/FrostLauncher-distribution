@@ -116,7 +116,7 @@
           ]
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.116.7+1.21.1@jar",
+          "id": "generated.fabricmod:fabric-api:0.116.7+1.21.1",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
