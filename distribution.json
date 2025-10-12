@@ -11,7 +11,7 @@
       "id": "FrostNetwork-1.21.1",
       "name": "FrostNetwork (Minecraft 1.21.1)",
       "description": "FrostNetwork Running Minecraft 1.21.1 (Fabric v0.17.3)",
-      "icon": null,
+      "icon": "https://media.discordapp.net/attachments/1416748337603936278/1424378663444676678/FN_Fronte_1.png?ex=68ec4d41&is=68eafbc1&hm=fcec3e41f6d87fa06a29389e3b0ab0a968efeedf627a467f1e81a388be2cbd67&=&format=webp&quality=lossless",
       "version": "1.0.0",
       "address": "82.22.184.130:25553",
       "minecraftVersion": "1.21.1",
