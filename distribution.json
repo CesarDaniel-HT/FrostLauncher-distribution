@@ -178,6 +178,19 @@
           }
         },
         {
+          "id": "com.tiviacz:travelersbackpack:10.1.27@jar",
+          "name": "Traveler's Backpack",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1369587,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/travelersbackpack-fabric-1.21.1-10.1.27.jar",
+            "MD5": "af48ad211682604eec49665179087e5a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
           "id": "RANKS.zip",
           "name": "RANKS.zip",
           "type": "File",
