@@ -146,6 +146,16 @@
           }
         },
         {
+          "id": "generated.fabricmod:mr_epicterrain:0.1.4@jar",
+          "name": "Epic Terrain",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 463739,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/epicterrain-0.1.4.jar",
+            "MD5": "eb3c93a42889e699c1fb6443b6b844a1"
+          }
+        },
+        {
           "id": "de.keksuccino:spiffyhud:3.0.0@jar",
           "name": "SpiffyHUD",
           "type": "FabricMod",
