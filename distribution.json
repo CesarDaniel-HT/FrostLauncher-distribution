@@ -972,6 +972,16 @@
           }
         },
         {
+          "id": "com.cinemamod:mcef:2.1.6-1.20.1@jar",
+          "name": "MCEF (Minecraft Chromium Embedded Framework)",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 226323,
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/mcef-fabric-2.1.6-1.20.1.jar",
+            "MD5": "78d61b907a7c0901b9ba962840d2b8e9"
+          }
+        },
+        {
           "id": "net.mcreator.playticsdeco:medieval_deco:1.2@jar",
           "name": "PlayTics Deco",
           "type": "FabricMod",
