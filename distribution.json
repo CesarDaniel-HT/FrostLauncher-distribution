@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1917330,
             "MD5": "54e368d0ccdcb9109a63f048e26526b0",
-            "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
+            "url": "http://157.173.118.92/nebula/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "056a2fbdaa8d9af1c9975b0932b0c52c",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/versions/1.21.1-fabric-0.17.3/1.21.1-fabric-0.17.3.json"
+                "url": "http://157.173.118.92/nebula/repo/versions/1.21.1-fabric-0.17.3/1.21.1-fabric-0.17.3.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1504519,
                 "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 657725,
                 "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 229196,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cardinal-components-api-6.1.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cardinal-components-api-6.1.2.jar",
             "MD5": "56b720554d1d0ac5efbac63d9099c8b3"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1157166,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
             "MD5": "a2c091b027ad6ba8e54b07020fd45884"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 182095,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/CMDCam-Fabric-new.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/CMDCam-Fabric-new.jar",
             "MD5": "1e2275c9060d67c0aa179808d227cb56"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1239340,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar",
             "MD5": "55809417ae7e3debcd15147198808a17"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 235272,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
             "MD5": "3219ecf379ce7035a4605317b5847812"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 463739,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/epicterrain-0.1.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/epicterrain-0.1.4.jar",
             "MD5": "eb3c93a42889e699c1fb6443b6b844a1"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2424884,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fabric-api-0.116.7+1.21.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fabric-api-0.116.7+1.21.1.jar",
             "MD5": "6d844b1f5a6f67395912e81043ae3aed"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3618632,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
             "MD5": "e5029449e4612d9c59d335871a123ea5"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2690177,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.1.jar",
             "MD5": "1179fe09b9ba970e84ed59259adfe65a"
           },
           "required": {
@@ -214,7 +214,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3564296,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
             "MD5": "822597e140062585b3452a3d1b839a28"
           },
           "required": {
@@ -227,7 +227,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 786695,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/konkrete_fabric_1.9.9_MC_1.21.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/konkrete_fabric_1.9.9_MC_1.21.jar",
             "MD5": "287ee9cfc6015f706672fd8c20f5ef9c"
           }
         },
@@ -237,7 +237,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 188035,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/melody_fabric_1.0.10_MC_1.21.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/melody_fabric_1.0.10_MC_1.21.jar",
             "MD5": "0f1bfbf2dd4fa047a1616fc448f3b856"
           }
         },
@@ -247,7 +247,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 832544,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/notenoughanimations-fabric-1.10.3.1-mc1.21.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/notenoughanimations-fabric-1.10.3.1-mc1.21.1.jar",
             "MD5": "36a44e1e59f908386d350acbbf55e1c5"
           },
           "required": {
@@ -260,7 +260,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1297761,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/sodium-fabric-0.6.13+mc1.21.1.jar",
             "MD5": "aa37ba0048a1af6b554b137088cad484"
           },
           "required": {
@@ -273,7 +273,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 472192,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/spiffyhud_fabric_3.0.0_MC_1.21.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/spiffyhud_fabric_3.0.0_MC_1.21.1.jar",
             "MD5": "a7ce61363db5c7bb6dad09e48b5c0256"
           }
         },
@@ -283,7 +283,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1369587,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/travelersbackpack-fabric-1.21.1-10.1.27.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/travelersbackpack-fabric-1.21.1-10.1.27.jar",
             "MD5": "af48ad211682604eec49665179087e5a"
           },
           "required": {
@@ -296,7 +296,7 @@
           "type": "File",
           "artifact": {
             "size": 512208,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/files/resourcepacks/RANKS.zip",
+            "url": "http://157.173.118.92/nebula/servers/FrostNetwork-1.21.1/files/resourcepacks/RANKS.zip",
             "MD5": "e5df8f261d8602b8e0d643e756a6e527",
             "path": "resourcepacks/RANKS.zip"
           }
@@ -326,7 +326,7 @@
           "artifact": {
             "size": 1917330,
             "MD5": "54e368d0ccdcb9109a63f048e26526b0",
-            "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
+            "url": "http://157.173.118.92/nebula/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
           },
           "subModules": [
             {
@@ -336,7 +336,7 @@
               "artifact": {
                 "size": 2847,
                 "MD5": "7668ab38e01c24df8a2dae4c743cfbba",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/versions/1.20.1-fabric-0.17.3/1.20.1-fabric-0.17.3.json"
+                "url": "http://157.173.118.92/nebula/repo/versions/1.20.1-fabric-0.17.3/1.20.1-fabric-0.17.3.json"
               }
             },
             {
@@ -346,7 +346,7 @@
               "artifact": {
                 "size": 126122,
                 "MD5": "6d1dd0482c03a6dc1807d9d004456021",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
               }
             },
             {
@@ -356,7 +356,7 @@
               "artifact": {
                 "size": 35149,
                 "MD5": "f07383cfbd50f097558341a03b8871e1",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
               }
             },
             {
@@ -366,7 +366,7 @@
               "artifact": {
                 "size": 74348,
                 "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
               }
             },
             {
@@ -376,7 +376,7 @@
               "artifact": {
                 "size": 51947,
                 "MD5": "912eeaba1a63d574ffc66c651c7c6725",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
               }
             },
             {
@@ -386,7 +386,7 @@
               "artifact": {
                 "size": 94565,
                 "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
               }
             },
             {
@@ -396,7 +396,7 @@
               "artifact": {
                 "size": 1504519,
                 "MD5": "798c8c25fb84d91b384bdee442c249d7",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -406,7 +406,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "http://157.173.118.92/nebula/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -417,7 +417,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 43895,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/advancementinfo-1.20-fabric0.83.0-1.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/advancementinfo-1.20-fabric0.83.0-1.4.jar",
             "MD5": "1d9875ca82a3f4d545db092f073bcc63"
           }
         },
@@ -427,7 +427,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 71415,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/animatica-0.6.1+1.20.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/animatica-0.6.1+1.20.4.jar",
             "MD5": "62f56949e2f934073f5576fc4758ff4f"
           }
         },
@@ -437,7 +437,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 585207,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
             "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
           }
         },
@@ -447,7 +447,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 216802,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
             "MD5": "a72bb86edd12291414298957dab9bc5a"
           }
         },
@@ -457,7 +457,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21587,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/bettermounthud-1.2.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/bettermounthud-1.2.2.jar",
             "MD5": "fdd255bd204f7d84850fd31ba687ad01"
           }
         },
@@ -467,7 +467,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 118295,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/borderless-mining-1.1.8+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/borderless-mining-1.1.8+1.20.1.jar",
             "MD5": "e35125dd22a96775fea86c1acef59a9a"
           }
         },
@@ -477,7 +477,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 170082,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/capes-1.5.2+1.20-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/capes-1.5.2+1.20-fabric.jar",
             "MD5": "312590823dd12dc676f8908be2e8396d"
           }
         },
@@ -487,7 +487,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8268711,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/chisel-fabric-2.0.0+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/chisel-fabric-2.0.0+mc1.20.1.jar",
             "MD5": "364c8f338ca783f08a8a61fae1197050"
           }
         },
@@ -497,7 +497,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 395586,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/citresewn-1.2.2+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/citresewn-1.2.2+1.20.1.jar",
             "MD5": "e7cd058b8f1866b8b599abdcc830b109"
           }
         },
@@ -507,7 +507,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1172214,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
             "MD5": "45d8bada7797af61d1f5543313b1f9f0"
           }
         },
@@ -517,7 +517,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1016063,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/continuity-3.0.0+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/continuity-3.0.0+1.20.1.jar",
             "MD5": "d180631d4db7588393f1d0c280593bc3"
           }
         },
@@ -527,7 +527,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1933455,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/copycats-2.2.2+mc.1.20.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/copycats-2.2.2+mc.1.20.1-fabric.jar",
             "MD5": "71eeb7169c89f324c6ff55cce38969f4"
           }
         },
@@ -537,7 +537,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4373010,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/create_dd-0.1d.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/create_dd-0.1d.jar",
             "MD5": "7184899616ae2783d93f610c32ec139f"
           }
         },
@@ -547,7 +547,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 18764522,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/create-1.20.1-6.0.6.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/create-1.20.1-6.0.6.jar",
             "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
           }
         },
@@ -557,7 +557,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 24841934,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
             "MD5": "48de208df4154d2149101d351148569b"
           }
         },
@@ -567,7 +567,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1605986,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/createaddition-fabric+1.20.1-1.2.6.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/createaddition-fabric+1.20.1-1.2.6.jar",
             "MD5": "7d93672bfe6c3707f71874af1055ee0c"
           }
         },
@@ -577,7 +577,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3971046,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/createdeco-2.0.2-1.20.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/createdeco-2.0.2-1.20.1-fabric.jar",
             "MD5": "5898cfdf230cf101a01128662a1d11b3"
           }
         },
@@ -587,7 +587,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21404,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/cryonicconfig-fabric-1.0.0+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/cryonicconfig-fabric-1.0.0+mc1.20.1.jar",
             "MD5": "9babea138b8b6a5d4dea9202c3234d1d"
           }
         },
@@ -597,7 +597,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 337545,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/Debugify-1.20.1+2.0.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Debugify-1.20.1+2.0.jar",
             "MD5": "39e6ead07cd3ce225fb24775e0cb0341"
           }
         },
@@ -607,7 +607,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 546719,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/decorative_blocks-fabric-1.20.1-4.1.3.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/decorative_blocks-fabric-1.20.1-4.1.3.jar",
             "MD5": "39a67e78370299975d3a172b582aed24"
           }
         },
@@ -617,7 +617,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 229458,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
             "MD5": "dd8594f4f5d3ef444c0de9dbf6f6a51a"
           }
         },
@@ -627,7 +627,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 196959,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.20.0-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.20.0-fabric.jar",
             "MD5": "1f30ec92141e767d28a04791580259f6"
           }
         },
@@ -637,7 +637,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 583322,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/e4mc_minecraft-fabric-5.4.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/e4mc_minecraft-fabric-5.4.1.jar",
             "MD5": "38d226121508ecec93d24e806e546d60"
           }
         },
@@ -647,7 +647,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 490690,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
             "MD5": "bfc7a62a2834f824bb426b73f383e0cb"
           }
         },
@@ -657,7 +657,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 471339,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/entity_model_features_1.20.1-fabric-3.0.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/entity_model_features_1.20.1-fabric-3.0.1.jar",
             "MD5": "5054eb7db871e5fb2432f5c84dd000c0"
           }
         },
@@ -667,7 +667,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 705315,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/entity_texture_features_1.20.1-fabric-7.0.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/entity_texture_features_1.20.1-fabric-7.0.2.jar",
             "MD5": "b0135b47bb97baa252ab496a6fd3313c"
           }
         },
@@ -677,7 +677,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 469757,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/entityculling-fabric-1.9.2-mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/entityculling-fabric-1.9.2-mc1.20.1.jar",
             "MD5": "3210c269546a9ef2e1aed4f45de94e35"
           }
         },
@@ -687,7 +687,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107873,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
             "MD5": "3483560775f416a4c759535b898165a5"
           }
         },
@@ -697,7 +697,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7479608,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
             "MD5": "89a977d6a4d7a84b8390f9143dd689f7"
           }
         },
@@ -707,7 +707,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 207272,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabricskyboxes-0.7.3+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabricskyboxes-0.7.3+mc1.20.1.jar",
             "MD5": "a3e21b6bb94f98d3b5d29c77d1ad703a"
           }
         },
@@ -717,7 +717,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 46663,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabrishot-1.10.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabrishot-1.10.1.jar",
             "MD5": "2e08783777a9735f056911f190c3b722"
           }
         },
@@ -727,7 +727,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7876,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fadeless-1.0.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fadeless-1.0.1.jar",
             "MD5": "1b17811bcc7052b8fc38a4c44bcf74a9"
           }
         },
@@ -737,7 +737,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1047620,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/Fancy%20Glass%20v1.0%20-%201.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Fancy%20Glass%20v1.0%20-%201.20.1.jar",
             "MD5": "707cf395f59e09941756f2bcbb6dd494"
           }
         },
@@ -747,7 +747,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 84552,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fancydelight-0.1-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fancydelight-0.1-1.20.1.jar",
             "MD5": "0b6c4dc82d2239f67e42a38ea72ab0eb"
           }
         },
@@ -757,7 +757,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 30213,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/FancyHealthBar-1.1.1-1.20.1-java17.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/FancyHealthBar-1.1.1-1.20.1-java17.jar",
             "MD5": "7507c5f94d8e4e76018c228557a30b80"
           }
         },
@@ -767,7 +767,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3620844,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.20.1.jar",
             "MD5": "ad785daf2e26435a7d3b2ad93d64ec2f"
           }
         },
@@ -777,7 +777,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 395086,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fantasy_armor-1.1.1-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fantasy_armor-1.1.1-1.20.1.jar",
             "MD5": "c6c376d7abf30a53a6ac218ffb212cce"
           }
         },
@@ -787,7 +787,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 554429,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fantasy_weapons-fabric-0.3.1-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fantasy_weapons-fabric-0.3.1-1.20.1.jar",
             "MD5": "2d71b3a25515aef797139e3f0695500b"
           }
         },
@@ -797,7 +797,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2718948,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/farmers-delight-fabric-1.4.3.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/farmers-delight-fabric-1.4.3.jar",
             "MD5": "dfcfdea62c47c8af60b5a72ce205b75c"
           }
         },
@@ -807,7 +807,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8024496,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/FarmersDelight-1.20.1-2.4.0+refabricated.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/FarmersDelight-1.20.1-2.4.0+refabricated.jar",
             "MD5": "61cff464c1a1393c4a70631b4de04a4e"
           }
         },
@@ -817,7 +817,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 89893,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/FarmersDelight-Expansion-1.2.2+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/FarmersDelight-Expansion-1.2.2+1.20.1.jar",
             "MD5": "505d71f8cb0aeace5daf62fe18ac6430"
           }
         },
@@ -827,7 +827,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 103203,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/farmersknives-3.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/farmersknives-3.2.jar",
             "MD5": "03900adae76a1804b5f9cbd10456640b"
           }
         },
@@ -837,7 +837,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 79306,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fastquit-3.0.0+1.20+.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fastquit-3.0.0+1.20+.jar",
             "MD5": "a1b2847e248207157f5bbe7285b41927"
           }
         },
@@ -847,7 +847,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125197,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
             "MD5": "a19272e427f75fea59127de6610ea26b"
           }
         },
@@ -857,7 +857,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49495,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/fsb-interop-1.3.6+mc1.20.1-build.50.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fsb-interop-1.3.6+mc1.20.1-build.50.jar",
             "MD5": "87fa8fe095bad30e9ca15ceb660b5e45"
           }
         },
@@ -867,7 +867,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20679,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/gabcraft19s_medieval_currency-2.0-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/gabcraft19s_medieval_currency-2.0-1.20.1.jar",
             "MD5": "9b49c326a5c44bda0d5ec68e6969004f"
           }
         },
@@ -877,7 +877,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1069282,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.8.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.8.2.jar",
             "MD5": "09b57b83ce1a09c3576031d7e8bd52c9"
           }
         },
@@ -887,7 +887,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 242651,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
             "MD5": "e5b2f5311044503a61e51b3cd2987962"
           }
         },
@@ -897,7 +897,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 105382,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
             "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
           }
         },
@@ -907,7 +907,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 408141,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/interiors-0.5.6+fabric-mc1.20.1-build.104.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/interiors-0.5.6+fabric-mc1.20.1-build.104.jar",
             "MD5": "242dc26cd4afb94c887b7c728772eba8"
           }
         },
@@ -917,7 +917,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
           }
         },
@@ -927,7 +927,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 892067,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6"
           }
         },
@@ -937,7 +937,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1114373,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/lambdynamiclights-4.4.0+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/lambdynamiclights-4.4.0+1.20.1.jar",
             "MD5": "9ebce39aa2ecdb9d32fce5d69674a9b7"
           }
         },
@@ -947,7 +947,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 73375,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/language-reload-1.7.4+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/language-reload-1.7.4+1.20.1.jar",
             "MD5": "b9bc34ffb7aaef6accf670fb589b7b35"
           }
         },
@@ -957,7 +957,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 706600,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
             "MD5": "de6d394cedf7e33bfd4b03209156211a"
           }
         },
@@ -967,7 +967,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 487655,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/lithostitched-fabric-1.20.1-1.4.11.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/lithostitched-fabric-1.20.1-1.4.11.jar",
             "MD5": "d407a859bfb6164f28b84aded031aa26"
           }
         },
@@ -977,7 +977,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14340,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/main-menu-credits-1.1.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/main-menu-credits-1.1.2.jar",
             "MD5": "ca68af4e0939c9b2af2e8f0c5149f1d0"
           }
         },
@@ -987,7 +987,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 261997,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/Medieval%20Decoration%20v.1.2%201.20.1%20Fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Medieval%20Decoration%20v.1.2%201.20.1%20Fabric.jar",
             "MD5": "2e82ad4c23f42ef9aa79daab5b534f24"
           }
         },
@@ -997,7 +997,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39696,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
           }
         },
@@ -1007,7 +1007,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49334,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940"
           }
         },
@@ -1017,7 +1017,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 36039,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/mixintrace-1.1.1+1.17.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/mixintrace-1.1.1+1.17.jar",
             "MD5": "25673336ece740d8127ae7525bc0cd4f"
           }
         },
@@ -1027,7 +1027,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 65491,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/modelfix-1.15-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/modelfix-1.15-fabric.jar",
             "MD5": "5503cf88c4ecb768330655258fa9b388"
           }
         },
@@ -1037,7 +1037,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 533705,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/modernfix-fabric-5.24.4+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/modernfix-fabric-5.24.4+mc1.20.1.jar",
             "MD5": "1f0c92268d97b8f2bd4998ae886246a5"
           }
         },
@@ -1047,7 +1047,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 721366,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/modmenu-7.2.2.jar",
             "MD5": "2629511a2d3b141d9f2a24dc9685637e"
           }
         },
@@ -1057,7 +1057,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3546,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/morechathistory-1.3.0.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/morechathistory-1.3.0.jar",
             "MD5": "1980ac8b5b66417091d101682af8865c"
           }
         },
@@ -1067,7 +1067,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 272851,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
             "MD5": "109804ad4b9f14a549f02bf26c98ac44"
           }
         },
@@ -1077,7 +1077,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 619812,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
             "MD5": "62ebb770ad9e08008abf6df50a6a1aa7"
           }
         },
@@ -1087,7 +1087,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 623504,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/optigui-2.3.0-beta.8+1.20.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/optigui-2.3.0-beta.8+1.20.jar",
             "MD5": "9156a88a59f5c821158a72fdcfbe21d9"
           }
         },
@@ -1097,7 +1097,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 133463,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/puzzle-1.5.2+1.20.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/puzzle-1.5.2+1.20.jar",
             "MD5": "398c46e49c5225266262fbb06a8bea07"
           }
         },
@@ -1107,7 +1107,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77304,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
             "MD5": "0db2ef332dd00de8c64e34f192317118"
           }
         },
@@ -1117,7 +1117,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 160946,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/rrls-4.0.6.1+mc1.20.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/rrls-4.0.6.1+mc1.20.1-fabric.jar",
             "MD5": "2a0728123d4089f8eb44c2654c52a8c6"
           }
         },
@@ -1127,7 +1127,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 48598,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/SimpleCrown-1.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/SimpleCrown-1.1.jar",
             "MD5": "15de95dee31841c7610f02a188d83473"
           }
         },
@@ -1137,7 +1137,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1569197,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/simplehats-fabric-1.20.1-0.3.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/simplehats-fabric-1.20.1-0.3.2.jar",
             "MD5": "8313dcad491898e9729b4e5eccf954af"
           }
         },
@@ -1147,7 +1147,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7696749,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/SkinShuffle-2.4.0+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/SkinShuffle-2.4.0+1.20.1.jar",
             "MD5": "01bf86b9fac0b688b11316cec0b3b8ef"
           }
         },
@@ -1157,7 +1157,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 370701,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/sodium-extra-0.5.9+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/sodium-extra-0.5.9+mc1.20.1.jar",
             "MD5": "cb941aa93cad7e9e238f56b6f75b1c10"
           }
         },
@@ -1167,7 +1167,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
           }
         },
@@ -1177,7 +1177,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 9892101,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
             "MD5": "404efdba168d9405e1ef1ab199a4c344"
           }
         },
@@ -1187,7 +1187,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 33148,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/technomodel-1.0.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/technomodel-1.0.4.jar",
             "MD5": "ec8e8c639edc519186b73a151fc194a1"
           }
         },
@@ -1197,7 +1197,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 313298,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/tectonic-3.0.16-fabric-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/tectonic-3.0.16-fabric-1.20.1.jar",
             "MD5": "16de995253e8fd048606a5e4e3d41193"
           }
         },
@@ -1207,7 +1207,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 238532,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/trinkets-3.7.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/trinkets-3.7.2.jar",
             "MD5": "c010ccc2015e5b1f3cb1994694ecc512"
           }
         },
@@ -1217,7 +1217,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5249802,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.6.6.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.6.6.jar",
             "MD5": "f96d972c3b21d96c2119d908a62a7c04"
           }
         },
@@ -1227,7 +1227,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5825402,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/worldedit-mod-7.2.15.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
           }
         },
@@ -1237,7 +1237,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1294234,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
             "MD5": "b6960b2defbf8cb1b983cffd261089ba"
           }
         },
@@ -1247,7 +1247,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 17373,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/yosbr-0.1.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/yosbr-0.1.2.jar",
             "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
           }
         },
@@ -1257,7 +1257,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1890159,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostRP-1.20.1/fabricmods/required/Zoomify-2.14.6+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Zoomify-2.14.6+1.20.1.jar",
             "MD5": "54100349fa16d5f4697fd5c9944ee8f5"
           }
         }
