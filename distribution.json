@@ -1202,13 +1202,13 @@
           }
         },
         {
-          "id": "com.github.NGoedix:videoplayer:2.0.3@jar",
+          "id": "com.github.NGoedix:videoplayer:3.0.5@jar",
           "name": "Video Player",
           "type": "FabricMod",
           "artifact": {
-            "size": 4909172,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/VideoPlayer-2.0.3-FABRIC-1.20.X%20(1).jar",
-            "MD5": "5824de1878644c09948a09ebc131e2e8"
+            "size": 4979486,
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/VideoPlayer-3.0.5-FABRIC-1.20.X-3.0.5%20(2).jar",
+            "MD5": "d02a95324eab33dcc74a87699406369e"
           }
         },
         {
@@ -1222,13 +1222,13 @@
           }
         },
         {
-          "id": "org.watermedia.loaders:watermedia:2.1.36@jar",
+          "id": "me.srrapero720.watermedia.loaders:watermedia:2.0.75@jar",
           "name": "WaterMedia",
           "type": "FabricMod",
           "artifact": {
-            "size": 37858040,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/watermedia-2.1.36.jar",
-            "MD5": "4b517fafc374653b97bc1a2751944b67"
+            "size": 27600243,
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/watermedia-2.0.75%20(1).jar",
+            "MD5": "05ed7ef455800168b37d15da335a0553"
           }
         },
         {
