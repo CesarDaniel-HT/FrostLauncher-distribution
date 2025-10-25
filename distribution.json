@@ -16,9 +16,9 @@
       "address": "82.22.184.130:25553",
       "minecraftVersion": "1.21.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "1427001817434292436",
+        "largeImageText": "Giocando su FrostRP",
+        "largeImageKey": "FN_Fronte_1"
       },
       "mainServer": false,
       "autoconnect": false,
