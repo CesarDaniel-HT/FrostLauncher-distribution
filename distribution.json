@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "910992405275246653",
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
@@ -11,7 +11,7 @@
       "id": "FrostNetwork-1.21.1",
       "name": "FrostNetwork (Minecraft 1.21.1)",
       "description": "FrostNetwork Running Minecraft 1.21.1 (Fabric v0.17.3)",
-      "icon": "https://media.discordapp.net/attachments/1416748337603936278/1424378663444676678/FN_Fronte_1.png?ex=68ec4d41&is=68eafbc1&hm=fcec3e41f6d87fa06a29389e3b0ab0a968efeedf627a467f1e81a388be2cbd67&=&format=webp&quality=lossless",
+      "icon": null,
       "version": "1.0.0",
       "address": "82.22.184.130:25553",
       "minecraftVersion": "1.21.1",
@@ -116,43 +116,23 @@
           ]
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.116.7+1.21.1",
-          "name": "Fabric API",
+          "id": "generated.fabricmod:cardinal-components:6.1.2@jar",
+          "name": "Cardinal Components API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2424884,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fabric-api-0.116.7+1.21.1.jar",
-            "MD5": "6d844b1f5a6f67395912e81043ae3aed"
+            "size": 229196,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cardinal-components-api-6.1.2.jar",
+            "MD5": "56b720554d1d0ac5efbac63d9099c8b3"
           }
         },
         {
-          "id": "de.keksuccino:drippyloadingscreen:3.0.12@jar",
-          "name": "Drippy Loading Screen",
+          "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
+          "name": "Cloth Config v15",
           "type": "FabricMod",
           "artifact": {
-            "size": 235272,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
-            "MD5": "3219ecf379ce7035a4605317b5847812"
-          }
-        },
-        {
-          "id": "de.keksuccino:fancymenu:3.7.0@jar",
-          "name": "FancyMenu",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3618632,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
-            "MD5": "e5029449e4612d9c59d335871a123ea5"
-          }
-        },
-        {
-          "id": "generated.fabricmod:mr_epicterrain:0.1.4@jar",
-          "name": "Epic Terrain",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 463739,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/epicterrain-0.1.4.jar",
-            "MD5": "eb3c93a42889e699c1fb6443b6b844a1"
+            "size": 1157166,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
+            "MD5": "a2c091b027ad6ba8e54b07020fd45884"
           }
         },
         {
@@ -176,13 +156,43 @@
           }
         },
         {
-          "id": "de.keksuccino:spiffyhud:3.0.0@jar",
-          "name": "SpiffyHUD",
+          "id": "de.keksuccino:drippyloadingscreen:3.0.12@jar",
+          "name": "Drippy Loading Screen",
           "type": "FabricMod",
           "artifact": {
-            "size": 472192,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/spiffyhud_fabric_3.0.0_MC_1.21.1.jar",
-            "MD5": "a7ce61363db5c7bb6dad09e48b5c0256"
+            "size": 235272,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
+            "MD5": "3219ecf379ce7035a4605317b5847812"
+          }
+        },
+        {
+          "id": "generated.fabricmod:mr_epicterrain:0.1.4@jar",
+          "name": "Epic Terrain",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 463739,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/epicterrain-0.1.4.jar",
+            "MD5": "eb3c93a42889e699c1fb6443b6b844a1"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.116.7+1.21.1@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2424884,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fabric-api-0.116.7+1.21.1.jar",
+            "MD5": "6d844b1f5a6f67395912e81043ae3aed"
+          }
+        },
+        {
+          "id": "de.keksuccino:fancymenu:3.7.0@jar",
+          "name": "FancyMenu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3618632,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.21.1.jar",
+            "MD5": "e5029449e4612d9c59d335871a123ea5"
           }
         },
         {
@@ -193,6 +203,19 @@
             "size": 2690177,
             "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.1.jar",
             "MD5": "1179fe09b9ba970e84ed59259adfe65a"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.52@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3564296,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
+            "MD5": "822597e140062585b3452a3d1b839a28"
           },
           "required": {
             "value": false
@@ -216,39 +239,6 @@
             "size": 188035,
             "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/melody_fabric_1.0.10_MC_1.21.jar",
             "MD5": "0f1bfbf2dd4fa047a1616fc448f3b856"
-          }
-        },
-        {
-          "id": "journeymap:journeymap:1.21.1-6.0.0-beta.52@jar",
-          "name": "Journeymap",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 3564296,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/optionalon/journeymap-fabric-1.21.1-6.0.0-beta.52.jar",
-            "MD5": "822597e140062585b3452a3d1b839a28"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
-          "id": "generated.fabricmod:cardinal-components:6.1.2@jar",
-          "name": "Cardinal Components API",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 229196,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cardinal-components-api-6.1.2.jar",
-            "MD5": "56b720554d1d0ac5efbac63d9099c8b3"
-          }
-        },
-        {
-          "id": "me.shedaniel.autoconfig.example:cloth-config:15.0.140@jar",
-          "name": "Cloth Config v15",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 1157166,
-            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/cloth-config-15.0.140-fabric.jar",
-            "MD5": "a2c091b027ad6ba8e54b07020fd45884"
           }
         },
         {
@@ -278,6 +268,16 @@
           }
         },
         {
+          "id": "de.keksuccino:spiffyhud:3.0.0@jar",
+          "name": "SpiffyHUD",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 472192,
+            "url": "https://cesardaniel.websr.fr/nebula/servers/FrostNetwork-1.21.1/fabricmods/required/spiffyhud_fabric_3.0.0_MC_1.21.1.jar",
+            "MD5": "a7ce61363db5c7bb6dad09e48b5c0256"
+          }
+        },
+        {
           "id": "com.tiviacz:travelersbackpack:10.1.27@jar",
           "name": "Traveler's Backpack",
           "type": "FabricMod",
@@ -300,6 +300,116 @@
             "MD5": "e5df8f261d8602b8e0d643e756a6e527",
             "path": "resourcepacks/RANKS.zip"
           }
+        }
+      ]
+    },
+    {
+      "id": "FrostRP-1.20.1",
+      "name": "FrostRP (Minecraft 1.20.1)",
+      "description": "FrostRP Running Minecraft 1.20.1 (Fabric v0.17.3)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "localhost:25565",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": false,
+      "autoconnect": false,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.17.3",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1917330,
+            "MD5": "54e368d0ccdcb9109a63f048e26526b0",
+            "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/fabric-loader/0.17.3/fabric-loader-0.17.3.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-fabric-0.17.3",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2847,
+                "MD5": "7668ab38e01c24df8a2dae4c743cfbba",
+                "url": "https://cesardaniel.websr.fr/nebula/repo/versions/1.20.1-fabric-0.17.3/1.20.1-fabric-0.17.3.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.9",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126122,
+                "MD5": "6d1dd0482c03a6dc1807d9d004456021",
+                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm/9.9/asm-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.9",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35149,
+                "MD5": "f07383cfbd50f097558341a03b8871e1",
+                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-analysis/9.9/asm-analysis-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.9",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 74348,
+                "MD5": "8103b3de8f48fb4c7f97efdaa46ce809",
+                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-commons/9.9/asm-commons-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.9",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51947,
+                "MD5": "912eeaba1a63d574ffc66c651c7c6725",
+                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-tree/9.9/asm-tree-9.9.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.9",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94565,
+                "MD5": "ef5e90e736cd09bc407c1d46a3faba0f",
+                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/org/ow2/asm/asm-util/9.9/asm-util-9.9.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.16.5+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1504519,
+                "MD5": "798c8c25fb84d91b384bdee442c249d7",
+                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/sponge-mixin/0.16.5+mixin.0.8.7/sponge-mixin-0.16.5+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.20.1",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 573365,
+                "MD5": "3f4768ac751cac3418266d1d7aa15f55",
+                "url": "https://cesardaniel.websr.fr/nebula/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+              }
+            }
+          ]
         }
       ]
     }
