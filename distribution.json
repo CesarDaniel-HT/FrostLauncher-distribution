@@ -722,13 +722,13 @@
           }
         },
         {
-          "id": "de.keksuccino:fancymenu:3.7.0@jar",
+          "id": "de.keksuccino:fancymenu:3.6.4@jar",
           "name": "FancyMenu",
           "type": "FabricMod",
           "artifact": {
-            "size": 3620844,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fancymenu_fabric_3.7.0_MC_1.20.1.jar",
-            "MD5": "ad785daf2e26435a7d3b2ad93d64ec2f"
+            "size": 3564538,
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fancymenu_fabric_3.6.4_MC_1.20.1.jar",
+            "MD5": "e352b07954d1890aeeffa597719c5a42"
           }
         },
         {
