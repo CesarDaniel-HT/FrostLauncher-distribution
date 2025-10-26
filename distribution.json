@@ -417,8 +417,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 43895,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/advancementinfo-1.20-fabric0.83.0-1.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/advancementinfo-1.20-fabric0.83.0-1.4.jar",
             "MD5": "1d9875ca82a3f4d545db092f073bcc63"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -427,8 +430,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 71415,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/animatica-0.6.1+1.20.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/animatica-0.6.1+1.20.4.jar",
             "MD5": "62f56949e2f934073f5576fc4758ff4f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -437,8 +443,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 585207,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/architectury-9.2.14-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/architectury-9.2.14-fabric.jar",
             "MD5": "2ae04e0dad60a390031ee341e0b2ab45"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -447,8 +456,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 216802,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/bellsandwhistles-0.4.5+1.20.1-FABRIC.jar",
             "MD5": "a72bb86edd12291414298957dab9bc5a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -457,8 +469,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21587,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/bettermounthud-1.2.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/bettermounthud-1.2.2.jar",
             "MD5": "fdd255bd204f7d84850fd31ba687ad01"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -467,8 +482,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 118295,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/borderless-mining-1.1.8+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/borderless-mining-1.1.8+1.20.1.jar",
             "MD5": "e35125dd22a96775fea86c1acef59a9a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -477,8 +495,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 170082,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/capes-1.5.2+1.20-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/capes-1.5.2+1.20-fabric.jar",
             "MD5": "312590823dd12dc676f8908be2e8396d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -487,8 +508,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8268711,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/chisel-fabric-2.0.0+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/chisel-fabric-2.0.0+mc1.20.1.jar",
             "MD5": "364c8f338ca783f08a8a61fae1197050"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -497,8 +521,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 395586,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/citresewn-1.2.2+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/citresewn-1.2.2+1.20.1.jar",
             "MD5": "e7cd058b8f1866b8b599abdcc830b109"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -507,8 +534,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1172214,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/cloth-config-11.1.136-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/cloth-config-11.1.136-fabric.jar",
             "MD5": "45d8bada7797af61d1f5543313b1f9f0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -517,8 +547,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1016063,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/continuity-3.0.0+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/continuity-3.0.0+1.20.1.jar",
             "MD5": "d180631d4db7588393f1d0c280593bc3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -527,8 +560,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1933455,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/copycats-2.2.2+mc.1.20.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/copycats-2.2.2+mc.1.20.1-fabric.jar",
             "MD5": "71eeb7169c89f324c6ff55cce38969f4"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -537,8 +573,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4373010,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/create_dd-0.1d.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/create_dd-0.1d.jar",
             "MD5": "7184899616ae2783d93f610c32ec139f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -547,8 +586,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 18764522,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/create-1.20.1-6.0.6.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/create-1.20.1-6.0.6.jar",
             "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -557,8 +599,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 24841934,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
             "MD5": "48de208df4154d2149101d351148569b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -567,8 +612,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1605986,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/createaddition-fabric+1.20.1-1.2.6.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/createaddition-fabric+1.20.1-1.2.6.jar",
             "MD5": "7d93672bfe6c3707f71874af1055ee0c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -577,8 +625,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3971046,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/createdeco-2.0.2-1.20.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/createdeco-2.0.2-1.20.1-fabric.jar",
             "MD5": "5898cfdf230cf101a01128662a1d11b3"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -587,8 +638,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21404,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/cryonicconfig-fabric-1.0.0+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/cryonicconfig-fabric-1.0.0+mc1.20.1.jar",
             "MD5": "9babea138b8b6a5d4dea9202c3234d1d"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -597,8 +651,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 546719,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/decorative_blocks-fabric-1.20.1-4.1.3.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/decorative_blocks-fabric-1.20.1-4.1.3.jar",
             "MD5": "39a67e78370299975d3a172b582aed24"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -607,8 +664,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 229458,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/drippyloadingscreen_fabric_3.0.12_MC_1.20.1.jar",
             "MD5": "dd8594f4f5d3ef444c0de9dbf6f6a51a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -617,8 +677,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 196959,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/dynamic-fps-3.9.5+minecraft-1.20.0-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/dynamic-fps-3.9.5+minecraft-1.20.0-fabric.jar",
             "MD5": "1f30ec92141e767d28a04791580259f6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -627,8 +690,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 583322,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/e4mc_minecraft-fabric-5.4.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/e4mc_minecraft-fabric-5.4.1.jar",
             "MD5": "38d226121508ecec93d24e806e546d60"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -637,8 +703,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 490690,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/enhancedblockentities-0.9+1.20.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/enhancedblockentities-0.9+1.20.jar",
             "MD5": "bfc7a62a2834f824bb426b73f383e0cb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -647,8 +716,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 469757,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/entityculling-fabric-1.9.2-mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/entityculling-fabric-1.9.2-mc1.20.1.jar",
             "MD5": "3210c269546a9ef2e1aed4f45de94e35"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -657,8 +729,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2107873,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabric-api-0.92.6+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fabric-api-0.92.6+1.20.1.jar",
             "MD5": "3483560775f416a4c759535b898165a5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -667,8 +742,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7479608,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
             "MD5": "89a977d6a4d7a84b8390f9143dd689f7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -677,8 +755,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 207272,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabricskyboxes-0.7.3+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fabricskyboxes-0.7.3+mc1.20.1.jar",
             "MD5": "a3e21b6bb94f98d3b5d29c77d1ad703a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -687,8 +768,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 46663,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fabrishot-1.10.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fabrishot-1.10.1.jar",
             "MD5": "2e08783777a9735f056911f190c3b722"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -697,8 +781,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7876,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fadeless-1.0.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fadeless-1.0.1.jar",
             "MD5": "1b17811bcc7052b8fc38a4c44bcf74a9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -707,8 +794,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1047620,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Fancy%20Glass%20v1.0%20-%201.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/Fancy%20Glass%20v1.0%20-%201.20.1.jar",
             "MD5": "707cf395f59e09941756f2bcbb6dd494"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -717,8 +807,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 84552,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fancydelight-0.1-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fancydelight-0.1-1.20.1.jar",
             "MD5": "0b6c4dc82d2239f67e42a38ea72ab0eb"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -727,8 +820,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3564538,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fancymenu_fabric_3.6.4_MC_1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fancymenu_fabric_3.6.4_MC_1.20.1.jar",
             "MD5": "e352b07954d1890aeeffa597719c5a42"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -737,8 +833,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 395086,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fantasy_armor-1.1.1-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fantasy_armor-1.1.1-1.20.1.jar",
             "MD5": "c6c376d7abf30a53a6ac218ffb212cce"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -747,8 +846,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 554429,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fantasy_weapons-fabric-0.3.1-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fantasy_weapons-fabric-0.3.1-1.20.1.jar",
             "MD5": "2d71b3a25515aef797139e3f0695500b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -757,8 +859,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2718948,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/farmers-delight-fabric-1.4.3.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/farmers-delight-fabric-1.4.3.jar",
             "MD5": "dfcfdea62c47c8af60b5a72ce205b75c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -767,8 +872,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 8024496,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/FarmersDelight-1.20.1-2.4.0+refabricated.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/FarmersDelight-1.20.1-2.4.0+refabricated.jar",
             "MD5": "61cff464c1a1393c4a70631b4de04a4e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -777,8 +885,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 89893,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/FarmersDelight-Expansion-1.2.2+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/FarmersDelight-Expansion-1.2.2+1.20.1.jar",
             "MD5": "505d71f8cb0aeace5daf62fe18ac6430"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -787,8 +898,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 103203,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/farmersknives-3.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/farmersknives-3.2.jar",
             "MD5": "03900adae76a1804b5f9cbd10456640b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -797,8 +911,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 79306,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fastquit-3.0.0+1.20+.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fastquit-3.0.0+1.20+.jar",
             "MD5": "a1b2847e248207157f5bbe7285b41927"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -807,8 +924,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 125197,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/ferritecore-6.0.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/ferritecore-6.0.1-fabric.jar",
             "MD5": "a19272e427f75fea59127de6610ea26b"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -817,8 +937,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49495,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/fsb-interop-1.3.6+mc1.20.1-build.50.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/fsb-interop-1.3.6+mc1.20.1-build.50.jar",
             "MD5": "87fa8fe095bad30e9ca15ceb660b5e45"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -827,8 +950,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 20679,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/gabcraft19s_medieval_currency-2.0-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/gabcraft19s_medieval_currency-2.0-1.20.1.jar",
             "MD5": "9b49c326a5c44bda0d5ec68e6969004f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -837,8 +963,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1069282,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/geckolib-fabric-1.20.1-4.8.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/geckolib-fabric-1.20.1-4.8.2.jar",
             "MD5": "09b57b83ce1a09c3576031d7e8bd52c9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -847,8 +976,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 242651,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/ImmediatelyFast-Fabric-1.5.2+1.20.4.jar",
             "MD5": "e5b2f5311044503a61e51b3cd2987962"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -857,8 +989,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 105382,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/indium-1.0.36+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/indium-1.0.36+mc1.20.1.jar",
             "MD5": "21cefdaa742e1f31ded4f85f55a0f41c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -867,8 +1002,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 408141,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/interiors-0.5.6+fabric-mc1.20.1-build.104.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/interiors-0.5.6+fabric-mc1.20.1-build.104.jar",
             "MD5": "242dc26cd4afb94c887b7c728772eba8"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -877,8 +1015,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2726899,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/iris-1.7.6+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/iris-1.7.6+mc1.20.1.jar",
             "MD5": "45577adb5ab16505572c6ea4b1006e58"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -887,8 +1028,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 892067,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/konkrete_fabric_1.8.1_MC_1.20.1.jar",
             "MD5": "a816ca0f5272f0e60c745f7fe6bef1d6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -897,8 +1041,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1114373,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/lambdynamiclights-4.4.0+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/lambdynamiclights-4.4.0+1.20.1.jar",
             "MD5": "9ebce39aa2ecdb9d32fce5d69674a9b7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -907,8 +1054,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 73375,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/language-reload-1.7.4+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/language-reload-1.7.4+1.20.1.jar",
             "MD5": "b9bc34ffb7aaef6accf670fb589b7b35"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -917,8 +1067,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 706600,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/lithium-fabric-mc1.20.1-0.11.3.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/lithium-fabric-mc1.20.1-0.11.3.jar",
             "MD5": "de6d394cedf7e33bfd4b03209156211a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -927,8 +1080,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 487655,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/lithostitched-fabric-1.20.1-1.4.11.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/lithostitched-fabric-1.20.1-1.4.11.jar",
             "MD5": "d407a859bfb6164f28b84aded031aa26"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -937,8 +1093,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 14340,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/main-menu-credits-1.1.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/main-menu-credits-1.1.2.jar",
             "MD5": "ca68af4e0939c9b2af2e8f0c5149f1d0"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -947,8 +1106,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 226323,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/mcef-fabric-2.1.6-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/mcef-fabric-2.1.6-1.20.1.jar",
             "MD5": "78d61b907a7c0901b9ba962840d2b8e9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -957,8 +1119,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 261997,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Medieval%20Decoration%20v.1.2%201.20.1%20Fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/Medieval%20Decoration%20v.1.2%201.20.1%20Fabric.jar",
             "MD5": "2e82ad4c23f42ef9aa79daab5b534f24"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -967,8 +1132,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 39696,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
             "MD5": "8095b46d324586b3cf3d2f5bffe8b417"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -977,8 +1145,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 49334,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/memoryleakfix-fabric-1.17+-1.1.5.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/memoryleakfix-fabric-1.17+-1.1.5.jar",
             "MD5": "a8461f89d267441752c95beb5448e940"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -987,8 +1158,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 36039,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/mixintrace-1.1.1+1.17.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/mixintrace-1.1.1+1.17.jar",
             "MD5": "25673336ece740d8127ae7525bc0cd4f"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -997,8 +1171,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 65491,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/modelfix-1.15-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/modelfix-1.15-fabric.jar",
             "MD5": "5503cf88c4ecb768330655258fa9b388"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1007,8 +1184,24 @@
           "type": "FabricMod",
           "artifact": {
             "size": 533705,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/modernfix-fabric-5.24.4+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/modernfix-fabric-5.24.4+mc1.20.1.jar",
             "MD5": "1f0c92268d97b8f2bd4998ae886246a5"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.terraformersmc:modmenu:7.2.2@jar",
+          "name": "Mod Menu",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 721366,
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/modmenu-7.2.2%20(1).jar",
+            "MD5": "2629511a2d3b141d9f2a24dc9685637e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1017,8 +1210,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3546,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/morechathistory-1.3.0.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/morechathistory-1.3.0.jar",
             "MD5": "1980ac8b5b66417091d101682af8865c"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1027,8 +1223,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 272851,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/moreculling-1.20.4-0.24.0.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/moreculling-1.20.4-0.24.0.jar",
             "MD5": "109804ad4b9f14a549f02bf26c98ac44"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1037,8 +1236,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 619812,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/NoChatReports-FABRIC-1.20.1-v2.2.2.jar",
             "MD5": "62ebb770ad9e08008abf6df50a6a1aa7"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1047,8 +1249,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 623504,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/optigui-2.3.0-beta.8+1.20.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/optigui-2.3.0-beta.8+1.20.jar",
             "MD5": "9156a88a59f5c821158a72fdcfbe21d9"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1057,8 +1262,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 133463,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/puzzle-1.5.2+1.20.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/puzzle-1.5.2+1.20.jar",
             "MD5": "398c46e49c5225266262fbb06a8bea07"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1067,8 +1275,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 77304,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar",
             "MD5": "0db2ef332dd00de8c64e34f192317118"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1077,8 +1288,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 160946,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/rrls-4.0.6.1+mc1.20.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/rrls-4.0.6.1+mc1.20.1-fabric.jar",
             "MD5": "2a0728123d4089f8eb44c2654c52a8c6"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1087,8 +1301,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 48598,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/SimpleCrown-1.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/SimpleCrown-1.1.jar",
             "MD5": "15de95dee31841c7610f02a188d83473"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1097,8 +1314,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1569197,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/simplehats-fabric-1.20.1-0.3.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/simplehats-fabric-1.20.1-0.3.2.jar",
             "MD5": "8313dcad491898e9729b4e5eccf954af"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1107,8 +1327,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7696749,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/SkinShuffle-2.4.0+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/SkinShuffle-2.4.0+1.20.1.jar",
             "MD5": "01bf86b9fac0b688b11316cec0b3b8ef"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1117,8 +1340,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 370701,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/sodium-extra-0.5.9+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/sodium-extra-0.5.9+mc1.20.1.jar",
             "MD5": "cb941aa93cad7e9e238f56b6f75b1c10"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1127,8 +1353,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 971552,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/sodium-fabric-0.5.13+mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/sodium-fabric-0.5.13+mc1.20.1.jar",
             "MD5": "76e0349865f91f315aae087a6e88a84a"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1137,8 +1366,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 9892101,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
             "MD5": "404efdba168d9405e1ef1ab199a4c344"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1147,8 +1379,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 33148,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/technomodel-1.0.4.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/technomodel-1.0.4.jar",
             "MD5": "ec8e8c639edc519186b73a151fc194a1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1157,8 +1392,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 313298,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/tectonic-3.0.16-fabric-1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/tectonic-3.0.16-fabric-1.20.1.jar",
             "MD5": "16de995253e8fd048606a5e4e3d41193"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1167,8 +1405,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 238532,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/trinkets-3.7.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/trinkets-3.7.2.jar",
             "MD5": "c010ccc2015e5b1f3cb1994694ecc512"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1177,8 +1418,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4979486,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/VideoPlayer-3.0.5-FABRIC-1.20.X-3.0.5%20(2).jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/VideoPlayer-3.0.5-FABRIC-1.20.X-3.0.5%20(2).jar",
             "MD5": "d02a95324eab33dcc74a87699406369e"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1187,8 +1431,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5249802,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/voicechat-fabric-1.20.1-2.6.6.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/voicechat-fabric-1.20.1-2.6.6.jar",
             "MD5": "f96d972c3b21d96c2119d908a62a7c04"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1197,8 +1444,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 27600243,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/watermedia-2.0.75%20(1).jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/watermedia-2.0.75%20(1).jar",
             "MD5": "05ed7ef455800168b37d15da335a0553"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1207,8 +1457,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 5825402,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/worldedit-mod-7.2.15.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/worldedit-mod-7.2.15.jar",
             "MD5": "bd0e7cff7896348faab92e43300d0639"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1217,8 +1470,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1294234,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
             "MD5": "b6960b2defbf8cb1b983cffd261089ba"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1227,8 +1483,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 17373,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/yosbr-0.1.2.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/yosbr-0.1.2.jar",
             "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
+          },
+          "required": {
+            "value": false
           }
         },
         {
@@ -1237,8 +1496,11 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1890159,
-            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/required/Zoomify-2.14.6+1.20.1.jar",
+            "url": "http://157.173.118.92/nebula/servers/FrostRP-1.20.1/fabricmods/optionalon/Zoomify-2.14.6+1.20.1.jar",
             "MD5": "54100349fa16d5f4697fd5c9944ee8f5"
+          },
+          "required": {
+            "value": false
           }
         },
         {
